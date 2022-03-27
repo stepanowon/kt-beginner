@@ -1,6 +1,6 @@
 module.exports = {
   port: 8088,
-  root: "bootstrap",
+  root: "./",
   open: ["index.html"],
   host: "0.0.0.0",
   browser: "chrome",
